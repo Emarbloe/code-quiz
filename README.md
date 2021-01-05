@@ -27,6 +27,4 @@ WHEN the game is over
 THEN I can save my initials and score
 
 
-![04-web-apis-homework-demo](https://user-images.githubusercontent.com/72406130/103613516-49108580-4eec-11eb-8143-ee73078c7646.gif)
-
 
